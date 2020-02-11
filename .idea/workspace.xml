@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6a53109-fcc6-4f6b-a37b-1ffb8e5bcca4" name="Default Changelist" comment="" />
+    <list default="true" id="f6a53109-fcc6-4f6b-a37b-1ffb8e5bcca4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/lab2_2/lab2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/lab2_2/lab2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WrADhvlrv0lcJLiMFJ1YJQHFse" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -37,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lab3">
+  <component name="RunManager" selected="Python.lab2_2">
     <configuration name="lab1_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pomi_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,10 +160,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab2_2" />
+        <item itemvalue="Python.lab2_1" />
         <item itemvalue="Python.lab3" />
         <item itemvalue="Python.lab1_1" />
-        <item itemvalue="Python.lab2_1" />
-        <item itemvalue="Python.lab2_2" />
         <item itemvalue="Python.lab1_2" />
       </list>
     </recent_temporary>
@@ -169,18 +179,33 @@
       <option name="presentableId" value="Default" />
       <updated>1579897221600</updated>
       <workItem from="1579897241015" duration="14809000" />
-      <workItem from="1580055407855" duration="484000" />
+      <workItem from="1580055407855" duration="745000" />
+      <workItem from="1580069356681" duration="4998000" />
+      <workItem from="1580107654622" duration="2563000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pomi_python$lab1_1.coverage" NAME="lab1_1 Coverage Results" MODIFIED="1579911175864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
-    <SUITE FILE_PATH="coverage/pomi_python$lab2_2.coverage" NAME="lab2_2 Coverage Results" MODIFIED="1579903560151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2/lab2_2" />
-    <SUITE FILE_PATH="coverage/pomi_python$lab2_1.coverage" NAME="lab2_1 Coverage Results" MODIFIED="1579910800279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2/lab2_1" />
-    <SUITE FILE_PATH="coverage/pomi_python$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1580055518513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab3" />
+    <SUITE FILE_PATH="coverage/pomi_python$lab2_2.coverage" NAME="lab2_2 Coverage Results" MODIFIED="1580110182145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2/lab2_2" />
+    <SUITE FILE_PATH="coverage/pomi_python$lab2_1.coverage" NAME="lab2_1 Coverage Results" MODIFIED="1580109601514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2/lab2_1" />
+    <SUITE FILE_PATH="coverage/pomi_python$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1580109430929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab3" />
     <SUITE FILE_PATH="coverage/pomi_python$lab1_2.coverage" NAME="lab1_2 Coverage Results" MODIFIED="1579902527309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
   </component>
 </project>
